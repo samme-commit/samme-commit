@@ -1,4 +1,4 @@
-# Hey, I'm samme-commit 👋
+# Hey, I'm Samuel
 
 I'm a student from Sweden learning full-stack web development.
 
@@ -48,10 +48,10 @@ Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 [Repository](https://github.com/samme-commit/f2f-react-remake) · [Live Demo](https://f2f-react-remake.vercel.app/)
 
 
-### Mäklarfirma Concept Hemsida 🇸🇪
+### Stad & Strand — Real Estate Website Concept
 
-Concept Mäklarfirma Hemsida
+A fictional premium real estate landing page inspired by modern Swedish property websites.
 
-Byggd med React, TypeScript, Vite, ReactBits, HTML and CSS.
+Built with React, TypeScript, Vite, CSS and Font Awesome.
 
 [Repository](https://github.com/samme-commit/realestate-website-for-portfolio) · [Live Demo](https://realestate-website-for-portfolio.vercel.app/)
