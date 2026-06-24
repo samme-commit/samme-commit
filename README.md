@@ -12,8 +12,9 @@ Currently working on:
 
 ## Portfolio
 
-You can see more of my work here:  
-[samme-commit's Portfolio](https://portfolio-eight-tawny-21.vercel.app/)
+You can see more of my work here:
+
+[samme-commit's Portfolio](https://samme-commit-portfolio.vercel.app/)
 
 ## Main skills
 
