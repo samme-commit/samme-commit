@@ -33,6 +33,12 @@ You can see more of my work here:
 
 ## Featured Project
 
+### PulsePay
+PulsePay is a modern Stripe-inspired checkout UI concept built with React, TypeScript and Vite. 
+
+[Repository](https://github.com/samme-commit/pulsepay-checkout) · [Live Demo](https://pulsepay-checkout.vercel.app/)
+
+
 ### Fears to Fathom — Fan Website Redesign
 
 Unofficial fan-made redesign concept for the Fears to Fathom horror anthology.
