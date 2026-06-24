@@ -31,7 +31,7 @@ You can see more of my work here:
   </a>
 </p>
 
-## Featured Project
+## Featured Projects
 
 ### PulsePay
 PulsePay is a modern Stripe-inspired checkout UI concept built with React, TypeScript and Vite. 
