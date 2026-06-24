@@ -54,4 +54,4 @@ A fictional premium real estate landing page inspired by modern Swedish property
 
 Built with React, TypeScript, Vite, CSS and Font Awesome.
 
-[Repository](https://github.com/samme-commit/realestate-website-for-portfolio) · [Live Demo](https://realestate-website-for-portfolio.vercel.app/)
+[Repository](https://github.com/samme-commit/stad-strand-real-estate) · [Live Demo](https://stad-strand-real-estate.vercel.app/)
