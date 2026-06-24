@@ -10,6 +10,11 @@ Currently working on:
 - AI-powered web tools
 - Portfolio-ready frontend projects
 
+## Portfolio
+
+You can see more of my work here:  
+[samme-commit's Portfolio](https://portfolio-eight-tawny-21.vercel.app/)
+
 ## Main skills
 
 <p>
