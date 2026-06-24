@@ -41,6 +41,6 @@ Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 
 Concept Mäklarfirma Hemsida
 
-Built with React, TypeScript, Vite, ReactBits, HTML and CSS.
+Byggd med React, TypeScript, Vite, ReactBits, HTML and CSS.
 
 [Repository](https://github.com/samme-commit/realestate-website-for-portfolio) · [Live Demo](https://realestate-website-for-portfolio.vercel.app/)
