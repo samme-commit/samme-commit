@@ -14,7 +14,7 @@ Currently working on:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,blender,lua,github, vscode&theme=dark&perline=8" alt="Main skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,blender,lua,github, visualstudiocode&theme=dark&perline=8" alt="Main skills" />
   </a>
 </p>
 
