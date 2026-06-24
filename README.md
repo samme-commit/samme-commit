@@ -34,4 +34,4 @@ Unofficial fan-made redesign concept for the Fears to Fathom horror anthology.
 
 Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 
-[Repository](https://github.com/samme-commit/f2f-react-remake) · [Live Demo](DIN-VERCEL-LÄNK)
+[Repository](https://github.com/samme-commit/f2f-react-remake) · [Live Demo](https://f2f-react-remake.vercel.app/)
