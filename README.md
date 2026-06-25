@@ -1,58 +1,99 @@
-# Hey, I'm Samuel
+# Hey, I'm Samuel 👋
 
-I'm a student from Sweden learning full-stack web development.
+I'm a student from Sweden learning frontend and full-stack web development.
 
-I build modern websites and web apps with HTML, CSS, JavaScript, TypeScript, React, Node.js and Express.
-
-Currently working on:
-- React projects
-- Full-stack Job Tracker app
-- AI-powered web tools
-- Portfolio-ready frontend projects
+I build polished websites and web apps with **React**, **TypeScript**, **JavaScript**, **Node.js** and **Express** — with a focus on clean UI, responsive layouts, real product flows and portfolio-ready projects.
 
 ## Portfolio
 
 You can see more of my work here:
 
-[samme-commit's Portfolio](https://samme-commit-portfolio.vercel.app/)
+[View Portfolio](https://samme-commit-portfolio.vercel.app/)
 
-## Main skills
+## Main Skills
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,blender,lua,github&theme=dark&perline=8" alt="Main skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vite,git,github" />
 </p>
 
-## Studying
+## Currently Learning
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,express,npm&theme=dark&perline=8" alt="Currently studying" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,postgres" />
 </p>
 
 ## Featured Projects
 
+### Job Tracker
+
+A full-stack job application tracker built with **Node.js**, **Express**, **Vanilla JavaScript**, **HTML** and **CSS**.
+
+It includes authentication, protected routes, application CRUD, dashboard statistics, settings, notifications, profile image uploads, public user profiles and a live demo account with example data.
+
+[Repository](https://github.com/samme-commit/job-tracker) · [Live Demo](https://job-tracker-cxxv.onrender.com/)
+
+---
+
+### Portfolio
+
+My personal developer portfolio built with **React**, **TypeScript** and **Vite**.
+
+Designed as a clean, premium dark portfolio inspired by modern SaaS websites, with featured projects, smooth UI details and responsive layouts.
+
+[Repository](https://github.com/samme-commit/portfolio) · [Live Demo](https://samme-commit-portfolio.vercel.app/)
+
+---
+
 ### PulsePay
-PulsePay is a modern Stripe-inspired checkout UI concept built with React, TypeScript and Vite. 
+
+A modern Stripe-inspired checkout UI concept built with **React**, **TypeScript** and **Vite**.
+
+The project focuses on polished product UI, payment flow design, smooth interactions and a premium purple visual style.
 
 [Repository](https://github.com/samme-commit/pulsepay-checkout) · [Live Demo](https://pulsepay-checkout.vercel.app/)
 
+---
 
-### Fears to Fathom — Fan Website Redesign
+### Studio Forma
 
-Unofficial fan-made redesign concept for the Fears to Fathom horror anthology.
+A premium fictional hair salon landing page concept built with **React**, **TypeScript** and **Vite**.
 
-Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
+Created to practice building modern business websites with strong first impressions, clear calls to action and responsive design.
 
-[Repository](https://github.com/samme-commit/f2f-react-remake) · [Live Demo](https://f2f-react-remake.vercel.app/)
+[Repository](https://github.com/samme-commit/studio-forma)
 
+---
 
-### Stad & Strand — Real Estate Website Concept
+### Stad & Strand
 
 A fictional premium real estate landing page inspired by modern Swedish property websites.
 
-Built with React, TypeScript, Vite, CSS and Font Awesome.
+Built with **React**, **TypeScript**, **Vite**, CSS and Font Awesome.
 
 [Repository](https://github.com/samme-commit/stad-strand-real-estate) · [Live Demo](https://stad-strand-real-estate.vercel.app/)
+
+---
+
+### Fears to Fathom — Fan Website Redesign
+
+An unofficial fan-made redesign concept for the Fears to Fathom horror anthology.
+
+Built with **React**, **TypeScript**, **Vite**, ReactBits, Font Awesome, HTML and CSS.
+
+[Repository](https://github.com/samme-commit/f2f-react-remake) · [Live Demo](https://f2f-react-remake.vercel.app/)
+
+## What I'm Building Toward
+
+I'm currently focused on becoming better at:
+
+* Building polished frontend experiences
+* Creating full-stack apps with authentication and APIs
+* Writing cleaner, more scalable project structure
+* Turning ideas into portfolio-ready products
+* Improving my React and TypeScript workflow
+
+## Contact
+
+You can reach me through my portfolio:
+
+https://samme-commit-portfolio.vercel.app/
