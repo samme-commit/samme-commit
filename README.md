@@ -13,7 +13,7 @@ You can see more of my work here:
 ## Main Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,express,vite,git,github" />
 </p>
 
 ## Currently Learning
