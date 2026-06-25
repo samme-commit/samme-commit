@@ -60,7 +60,7 @@ A premium fictional hair salon landing page concept built with **React**, **Type
 
 Created to practice building modern business websites with strong first impressions, clear calls to action and responsive design.
 
-[Repository](https://github.com/samme-commit/studio-forma)
+[Repository](https://github.com/samme-commit/studio-forma) · [Live Demo](https://sammecommit-studio-forma.vercel.app/)
 
 ---
 
